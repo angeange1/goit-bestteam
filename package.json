@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/blend_JS_6_lesson/",
+    "build": "vite build --base=/goit-bestteam/",
     "preview": "vite preview"
   },
   "devDependencies": {
